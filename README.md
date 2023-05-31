@@ -20,14 +20,6 @@ This is a **Complete Quiz App in FLUTTER** using a lot of features such as
 And a lot more...
 
   
-
-## Watch The Complete Tutorial Here
-
-### [In English](https://youtu.be/yHrpx4PoBzU)
-
-### [In Hindi](https://youtu.be/tJob-xdGLXE)
-
-
 ### Star It And Play With The Code
 
   
